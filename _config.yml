@@ -54,9 +54,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
-
-relative_permalinks: true
+kramdown:    true
 
 permalink:     pretty
 paginate_path: 'page:num'
